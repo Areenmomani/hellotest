@@ -2,3 +2,4 @@ language: java
 sudo : required
 script:
 -echo "hello world"
+-lint_the_things
